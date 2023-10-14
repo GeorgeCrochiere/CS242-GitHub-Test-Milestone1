@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("Chungus town was here!");
+        System.out.println("Jesse was here!");
     }
 }
 
